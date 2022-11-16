@@ -90,6 +90,6 @@ These links may help you to better understanding of the project idea and techniq
 
 <!-- CONTACT -->
 ## <br>**➲ Contact**
-- E-mail   : [omaarelsherif@gmail.com](mailto:omaarelsherif@gmail.com)
-- LinkedIn : https://www.linkedin.com/in/omaarelsherif/
-- Facebook : https://www.facebook.com/omaarelshereif
+- E-mail   : aniketshaw761@gmail.com
+- LinkedIn : https://www.linkedin.com/in/aniket-shaw-9107a5221/
+
