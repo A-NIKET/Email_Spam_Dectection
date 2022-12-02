@@ -88,7 +88,7 @@ These links may help you to better understanding of the project idea and techniq
 2. Naive-bayes algorithm : https://bit.ly/3zc9SLH
 3. Model evaluation : https://bit.ly/3B12VOO
 
-<!-- CONTACT -->
+<!-- contact-->
 ## <br>**➲ Contact**
 - E-mail   : aniketshaw761@gmail.com
 - LinkedIn : https://www.linkedin.com/in/aniket-shaw-9107a5221/
